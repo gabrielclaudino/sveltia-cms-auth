@@ -1,6 +1,7 @@
 {
   "name": "sveltia-cms-auth",
   "version": "0.1.0",
+  "packageManager": "pnpm@10.34.8",
   "license": "MIT",
   "type": "module",
   "private": true,
